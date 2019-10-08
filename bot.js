@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['LY GAMER','!help'];
+    var setGame = ['LY GAMER','!help','LY GAMER];
     var i = -1;
     var j = 0;
     setInterval(function (){
